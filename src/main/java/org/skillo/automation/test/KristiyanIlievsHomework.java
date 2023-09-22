@@ -1,6 +1,6 @@
 package org.skillo.automation.test;
 
-public class Main {
+public class KristiyanIlievsHomework {
     public static void main(String[] args) {
         // On home page - (Didn't read the homework assignment)
 
